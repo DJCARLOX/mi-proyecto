@@ -7,7 +7,7 @@
 - [Documentación](https://github.com/AlfonsoDeUna/LABORATORIO_GIT/blob/main/laboratorio_Pract_1.md)
 
 ## Imagen
-![Logo del Proyecto](https://www.ejemplodeproyecto.com/assets/logo.png)
+![Logo del Proyecto](https://capitalsoftware.com.ni/wp-content/uploads/2022/01/Git_commands.png)
 
 ## Tabla de Contenidos
 | Sección           | Descripción                        |
@@ -24,5 +24,13 @@
 - [ ] Desarrollar la funcionalidad principal
 - [ ] Documentar el código
 - [ ] Publicar el proyecto
+
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   readme.md
+
+no changes added to commit (use "git add" and/or "git commit -a")
 
 ¡Gracias por visitar mi repositorio! Si tienes alguna pregunta o sugerencia, no dudes en contactarme.
