@@ -25,12 +25,6 @@
 - [ ] Documentar el código
 - [ ] Publicar el proyecto
 
-On branch master
-Changes not staged for commit:
-  (use "git add <file>..." to update what will be committed)
-  (use "git restore <file>..." to discard changes in working directory)
-        modified:   readme.md
-
-no changes added to commit (use "git add" and/or "git commit -a")
+### HOLA
 
 ¡Gracias por visitar mi repositorio! Si tienes alguna pregunta o sugerencia, no dudes en contactarme.
